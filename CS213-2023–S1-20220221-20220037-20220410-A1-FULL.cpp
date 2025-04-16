@@ -1,12 +1,3 @@
-// FCAI – OOP Programming – 2023 - Assignment 1
-// Program Name:				Filters.cpp
-// Last Modification Date:	6/10/2023
-// Author1 and ID and Group:	20220037
-// Author2 and ID and Group:	20220221
-// Author3 and ID and Group:	20220410
-// Teaching Assistant : No
-// Purpose: Put filters on images
-
 #include <bits/stdc++.h>
 #include<fstream>
 #include "libraries/bmplib.h"
